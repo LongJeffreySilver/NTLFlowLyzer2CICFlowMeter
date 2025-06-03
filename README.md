@@ -21,4 +21,4 @@ Parser from NTLFlowLyzer format to CICFlowMeter format with the same mapped keys
     python3 NTLFlowLyzer2CICFlowMeter.py input.csv output.csv
     ```
 
-Make sure that the input.csv is the output CSV file of  NTLFlowLyzer and the output.csv will be the file with the CICFLowMeter format.
+Make sure that the **input.csv** is the output CSV file of  NTLFlowLyzer and the **output.csv** will be the file with the CICFLowMeter format.
